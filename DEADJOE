@@ -1,0 +1,28 @@
+
+*** These modified files were found in JOE when it aborted on Tue Nov 19 16:51:22 2024
+*** JOE was aborted by UNIX signal 1
+
+*** File '/nfs/scistore23/chlgrp/dghobadi/tight-pac-bayes/.git/COMMIT_EDITMSG'
+fix bugs
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   ELLA_SAID/train.py
+#	modified:   ELLA_Subspace/train.py
+#
+
+
+
+*** File '(Unnamed)'
+/nfs/scistore14/chlgrp/dghobadi/tight-pac-bayes/.git/MERGE_MSG
+/nfs/scistore23/chlgrp/dghobadi/tight-pac-bayes/.git/COMMIT_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
