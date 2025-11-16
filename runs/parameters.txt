@@ -1,0 +1,10 @@
+--dataset=CIFAR10 --model-name=CNTK --epochs=100 --lr=1e-2 --intrinsic_dim=1000  --n_train_tasks=1 --n_test_tasks=1
+--dataset=CIFAR10 --model-name=CNTK --epochs=100 --lr=1e-2 --intrinsic_dim=1500  --n_train_tasks=1 --n_test_tasks=1
+--dataset=CIFAR10 --model-name=CNTK --epochs=100 --lr=1e-2 --intrinsic_dim=2000  --n_train_tasks=1 --n_test_tasks=1
+--dataset=CIFAR10 --model-name=CNTK --epochs=100 --lr=1e-2 --intrinsic_dim=2500  --n_train_tasks=1 --n_test_tasks=1
+--dataset=CIFAR10 --model-name=CNTK --epochs=100 --lr=1e-2 --intrinsic_dim=3000  --n_train_tasks=1 --n_test_tasks=1
+--dataset=CIFAR10 --model-name=CNTK --epochs=100 --lr=1e-2 --intrinsic_dim=3500  --n_train_tasks=1 --n_test_tasks=1
+--dataset=CIFAR10 --model-name=CNTK --epochs=100 --lr=1e-2 --intrinsic_dim=4000  --n_train_tasks=1 --n_test_tasks=1
+--dataset=CIFAR10 --model-name=CNTK --epochs=100 --lr=1e-2 --intrinsic_dim=4500  --n_train_tasks=1 --n_test_tasks=1
+--dataset=CIFAR10 --model-name=CNTK --epochs=100 --lr=1e-2 --intrinsic_dim=5000  --n_train_tasks=1 --n_test_tasks=1
+--dataset=CIFAR10 --model-name=CNTK --epochs=100 --lr=1e-2 --intrinsic_dim=5500  --n_train_tasks=1 --n_test_tasks=1

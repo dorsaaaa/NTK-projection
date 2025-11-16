@@ -1,10 +1,8 @@
 logs/
 *.sif
 *.out
-*.txt
 *.zip
 *.csv
-*.sh
 *.npy
 /wandb
 /cifar_runs
