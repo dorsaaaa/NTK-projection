@@ -7,7 +7,6 @@ logs/
 *.sh
 *.npy
 /wandb
-/runs
 /cifar_runs
 /mnist_runs
 *.pkl
